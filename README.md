@@ -27,10 +27,10 @@
 
 ### Hi there 👋
 * 👂 My name is Rahim Ansari,
-* 🔭 I’m currently working as a Quality Assurance Engineer at <a href="https://masaischool.com/">Masai</a>
-* 💬 Ask me about Software testing
-* 📫 How to reach me: <a href="mailto:rahim.ansari@masaischool.com" >Email me</a>
-* 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
+* 🔭 I’m currently working as a Quality Assurance Engineer at <a href="https://masaischool.com/">Masai</a>,
+* 💬 Ask me about Software testing,
+* 📫 How to reach me: <a href="mailto:rahim.ansari@masaischool.com" >Email me</a>,
+* 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>,
 * ❤️ I love Software testing & coding,
 * ⚡ Fun fact: I make developers cry
 
