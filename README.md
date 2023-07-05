@@ -32,7 +32,7 @@
 * 📫 How to reach me: <a href="mailto:rahim.ansari@masaischool.com" >Email me</a>,
 * 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>,
 * ❤️ I love Software testing & coding,
-* ⚡ Fun fact: I make developers cry.
+* ⚡ Fun fact: I make developers cry
 
 <hr />
 
